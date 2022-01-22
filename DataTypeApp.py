@@ -1,0 +1,8 @@
+print("Welcome to Chutikran Shop")
+print("-------------------------")
+print("Apple x", 3, 30,"THB -",3*30,"THB")
+print("Banana x", 5, 70,"THB -",5*70,"THB")
+print("Mango x", 10, 40,"THB -",10*40,"THB")
+print("-------------------------")
+print("Total",(3*30)+(5*70)+(10*40),"THB")
+print("Thank You : Chutikran Shop")
